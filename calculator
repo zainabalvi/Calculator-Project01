@@ -1,2 +1,23 @@
 Console.WriteLine("Zainab Alvi");
 Console.WriteLine("24-ST-064");
+ Divsion
+int a  = 30;
+int b = 15;
+int div = a/b;
+Console.WriteLine("The division of two numbers is: division");
+Multiplication
+int a = 4;
+int b = 2;
+int multi = a * b;
+Console.WriteLine("The multiplication of two numbers is: multiplication");
+Suntraction
+int a = 10;
+int b = 5;
+int subtract = a - b;
+Console.WriteLine("The subtraction of two numbers is: subtract");
+Addition
+int a  = 3;
+int b = 4;
+int sum = a + b;
+Console.WriteLine("The addition of two numbers is: sum");
+
