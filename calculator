@@ -10,4 +10,9 @@ int a = 4;
 int b = 2;
 int multi = a * b;
 Console.WriteLine("The multiplication of two numbers is: multiplication");
- 
+Suntraction
+int a = 10;
+int b = 5;
+int subtract = a - b;
+Console.WriteLine("The subtraction of two numbers is: subtract");
+
